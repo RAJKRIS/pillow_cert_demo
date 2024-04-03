@@ -6,7 +6,7 @@
 <h4 align="center">A simple demo showcasing features of <a href="https://github.com/python-pillow/Pillow">Python Pillow(PIL)</a>. 
 </h4>
 
-<h8 align="center">A simple certificate background image has been edited to add a name and a QR image.</h8>
+<h8 align="center">Edit a simple certificate background image to add name and a QR image.</h8>
 
 
 <p align="center">
