@@ -1,0 +1,7 @@
+output.jpg
+output.png
+*.gif
+*.tiff
+.idea
+env/
+.env
