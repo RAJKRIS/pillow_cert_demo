@@ -25,7 +25,6 @@ qr = Image.open(QR_PATH)
 # resize image
 qr = qr.resize((350, 350))
 # attach the qr image
-print(QR_X, QR_Y)
 im1.paste(qr, (QR_X, QR_Y))
 
 # Save the image with a new name
